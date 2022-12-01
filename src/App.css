@@ -34,7 +34,7 @@ html {
   --bk-clr: linear-gradient(90deg, #4241413d 0%, rgba(0, 0, 0, 0.355) 100%);
   --brands-color: yellow;
   --hov-color: yellow;
-  --text-color: rgba(136, 135, 135, 0.416);
+  --text-color: rgba(133, 133, 133, 0.416);
 }
 
 .App {
